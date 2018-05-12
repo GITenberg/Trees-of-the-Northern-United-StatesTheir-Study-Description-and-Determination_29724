@@ -1,0 +1,30 @@
+_repo: Trees-of-the-Northern-United-StatesTheir-Study-Description-and-Determination_29724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Apgar, A. C. (Austin Craig)
+    alias: Apgar, Austin Craig
+    birthdate: 1838
+    deathdate: 1908
+    gutenberg_agent_id: '34111'
+    url: http://www.gutenberg.org/2009/agents/34111
+description: ''
+gutenberg_issued: '2009-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29724'
+  lccn: '04021477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Trees -- North America'
+title: 'Trees of the Northern United States
+
+  Their Study, Description and Determination'
+url: http://www.gutenberg.org/ebooks/29724
